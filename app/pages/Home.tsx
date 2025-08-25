@@ -34,7 +34,7 @@ export default function Home() {
   ];
 
   return (
-    <div className="min-h-screen relative overflow-hidden bg-slate-900">
+    <div className="min-h-screen bg-gradient-to-br from-slate-900 via-blue-900 to-purple-900 text-white relative overflow-hidden ">
 
       {/* Hero Section */}
       <div className="relative z-10 min-h-screen flex items-center justify-center px-4 lg:px-8 pt-10 pb-10">

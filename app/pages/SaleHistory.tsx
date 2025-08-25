@@ -316,7 +316,7 @@ export default function SaleHistory() {
                 )}
               </p>
             </div>
-          </div>
+          </div> 
         )}
 
         {/* Purchase History Cards */}
